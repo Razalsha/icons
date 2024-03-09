@@ -1,0 +1,49 @@
+.parent{
+    display:flex;
+    margin-left: 500px;
+    margin-top: 300px;
+   
+}
+body{
+    background-color: rgb(41, 35, 35);
+}
+.one{
+    border-radius: 10%;
+   border: 2px solid rgb(15, 104, 238);
+   padding: 10px;
+  
+}
+.two{
+    border-radius: 10%;
+    border: 2px solid rgb(104, 10, 148);
+    padding: 10px;
+    
+}
+.three{
+    border-radius: 10%;
+    border: 2px solid rgb(26, 70, 136);
+    padding: 10px;
+
+}
+.four{
+    border-radius: 10%;
+    border: 2px solid rgb(75, 126, 236);
+    padding: 10px;
+}
+#a2:hover {
+    transform: scale(0.5, 0.5);
+    background-color: rgb(90, 30, 97);
+    
+}
+#a3:hover{
+    transform: scale(0.5, 0.5);
+    background-color: rgb(16, 139, 170);
+}
+#a4:hover{
+    transform: scale(0.5, 0.5);
+    background-color: rgb(15, 93, 107);
+}
+#a5:hover{
+    transform: scale(0.5, 0.5);
+    background-color: rgb(14, 119, 218);
+}
